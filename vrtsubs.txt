@@ -1,3 +1,4 @@
+http://70.34.222.246:27410/sub/Q2xvLDE3NDYyMjIzMjUet08sygaTy
 vless://e5029ab6-7f8a-4260-ad7c-5fb3b9a91b6d@146.75.55.6:443?security=tls&type=xhttp&headerType=&path=%2F&host=crexm.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=crexm.com&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%9A%80%20Igravoy
 
 vless://e5029ab6-7f8a-4260-ad7c-5fb3b9a91b6d@151.101.3.6:443?security=tls&type=xhttp&headerType=&path=%2F&host=crexm.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=crexm.com&fp=chrome&alpn=h3&allowInsecure=1#Igravoy%20%F0%9F%87%AB%F0%9F%87%AE
